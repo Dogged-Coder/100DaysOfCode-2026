@@ -5,7 +5,7 @@
 While digitizing an old manuscript, **Meera** notices that some passages read more smoothly than others. She defines a substring as **balanced** if the number of vowels in it is at most twice the number of consonants. In other words, a substring with **v** vowels and **c** consonants is balanced if and only if:
 
 \[
-v \le 2c
+v <= 2c
 \]
 
 Given a string **s**, determine:
